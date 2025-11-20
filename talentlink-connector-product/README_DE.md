@@ -1,32 +1,32 @@
-# TalentLink Anschluss
+# TalentLink Connector
 
-[TalentLink](https://developer.lumesse-talenthub.com/) ist eine
-Wolke-basisbezogene Anwerbung und Talent Akquisition Bahnsteig mal Lumesse
-(jetzt Teil von Grundstein OnDemand). Es #windschlüpfig machen den Verleih
-Arbeitsgang, von Beruf Aushänge zu Kandidat Management, Filmvorführung, und
-berichtend. TalentLink Hilfen Gesellschaften fertigbringen genügend Talent
-Akquisition und automatisieren STUNDE Arbeitsgänge.
+[TalentLink](https://developer.lumesse-talenthub.com/) ist eine cloudbasierte
+Plattform für Personalbeschaffung und Talentakquise von Lumesse (jetzt Teil von
+Cornerstone OnDemand). Sie optimiert den Einstellungsprozess, von der
+Stellenausschreibung über das Bewerbermanagement bis hin zur Vorauswahl und
+Berichterstellung. TalentLink hilft Unternehmen dabei, die Talentakquise
+effizient zu verwalten und HR-Prozesse zu automatisieren.
 
-Dieser Anschluss:
+Dieser Konnektor:
 
--   Ist gegründet auf REST und SEIFE webservice Technologien.
--   Gibt du greifst zu zu sampeln TalentLink Funktionalität
+-   basiert auf REST- und SOAP-Webservice-Technologien.
+-   Sie erhalten Zugriff auf Beispielfunktionen von TalentLink.
 
 ## Demo
 
-Anruf Klausur Arbeitsgang. Es kehrt zurück Klausur #Daten in #loggen zu du.
+Rufen Sie den Testprozess auf. Er gibt Ihnen die Testdaten im Protokoll zurück.
 
 ## Einrichtung
 
-Vor irgendwelche Interaktionen zwischen den #Axon Efeu Motor und TalentLink
-Bedienungen können sein gerannt, sie müssen sein hereingebracht zu #jede
-#andere. Dies kann sein getan folgendermaßen:
+Bevor Interaktionen zwischen der Axon Ivy Engine und den TalentLink-Diensten
+ausgeführt werden können, müssen diese einander vorgestellt werden. Dies kann
+wie folgt erfolgen:
 
-1. Bekomm ein TalentLink Konto `Gastgeber-Namen`, `Nutzer-Name`, `Passwort` und
-   `api_Schlüssel` zu benutzen.
+1. Erstellen Sie ein TalentLink-Konto `host-name`, `user-name`, `password` und
+   `api_key`, um es zu verwenden.
 
-2. Überbrückung die Variablen für `Gastgeber-Name`, `Nutzer-Name`, `Passwort`
-   und `api_Schlüssel` in das Demo Projekt gezeigt da in dem Beispiel unten.
+2. Überschreiben Sie die Variablen für `host-name`, `user-name`, `password` und
+   `api_key` im Demo-Projekt wie im folgenden Beispiel gezeigt.
 
 ```
 Variables:
