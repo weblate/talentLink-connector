@@ -16,7 +16,7 @@ Dieser Konnektor:
 
 Rufen Sie den Testprozess auf. Er gibt Ihnen die Testdaten im Protokoll zurück.
 
-## Einrichtung
+## Setup
 
 Bevor Interaktionen zwischen der Axon Ivy Engine und den TalentLink-Diensten
 ausgeführt werden können, müssen diese einander vorgestellt werden. Dies kann
