@@ -7,10 +7,10 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>${project.name}</module>
-    <module>${project.name}-demo</module>
-    <module>${project.name}-test</module>
-    <module>${project.name}-product</module>
+    <module>talentlink-connector</module>
+    <module>talentlink-connector-demo</module>
+    <module>talentlink-connector-test</module>
+    <module>talentlink-connector-product</module>
   </modules>
 
   <scm>
